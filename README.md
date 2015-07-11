@@ -1,0 +1,2 @@
+# Smoke
+Tavaline tekst
